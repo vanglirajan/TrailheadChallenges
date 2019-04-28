@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Account_Country_Valid__c</fullName>
+    <externalId>false</externalId>
+    <formula>OR(Canada_Based__c = TRUE, USA_Based__c = TRUE)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Account Country Valid</label>
+    <type>Checkbox</type>
+</CustomField>
