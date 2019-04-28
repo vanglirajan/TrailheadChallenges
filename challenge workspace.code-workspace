@@ -6,6 +6,7 @@
 	],
 	"settings": {
 		"salesforcedx-vscode-core.push-or-deploy-on-save.enabled": false,
-		"eslint.nodePath": "c:\\Users\\Dell\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-45.12.1\\node_modules"
+		"eslint.nodePath": "c:\\Users\\Dell\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-45.12.1\\node_modules",
+		"salesforcedx-vscode-core.show-cli-success-msg": false
 	}
 }

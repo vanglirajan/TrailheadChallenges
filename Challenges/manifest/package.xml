@@ -14,22 +14,6 @@
   </types>
   <types>
     <members>*</members>
-    <name>ApprovalProcess</name>
-  </types>
-  <types>
-    <members>*</members>
-    <name>AssignmentRule</name>
-  </types>
-  <types>
-    <members>*</members>
-    <name>AssignmentRules</name>
-  </types>
-  <types>
-    <members>*</members>
-    <name>AutoResponseRules</name>
-  </types>
-  <types>
-    <members>*</members>
     <name>CleanDataService</name>
   </types>
   <types>
@@ -75,6 +59,24 @@
   <types>
     <members>*</members>
     <name>DuplicateRule</name>
+  </types>
+
+  <-- Automated applications -->
+  <types>
+    <members>*</members>
+    <name>ApprovalProcess</name>
+  </types>
+  <types>
+    <members>*</members>
+    <name>AssignmentRule</name>
+  </types>
+  <types>
+    <members>*</members>
+    <name>AssignmentRules</name>
+  </types>
+  <types>
+    <members>*</members>
+    <name>AutoResponseRules</name>
   </types>
   <types>
     <members>*</members>
@@ -151,8 +153,8 @@
     <members>*</members>
     <name>SharingRules</name>
   </types>
-  
-  <-- Others -->
+
+  <-- Othersettings -->
   <types>
     <members>*</members>
     <name>QuickAction</name>
